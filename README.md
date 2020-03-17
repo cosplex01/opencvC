@@ -15,4 +15,5 @@ visual studio로 opencv를 사용하려고 할때에 미리 준비하셔야 하�
 - vc++ 디렉터리 탭의 포함 디렉터리 부분에 opencv의 include폴더를 등록합니다
   (?:\opencv\build\include)
 - c/c++ 탭의 일반부분의 추가 포함 디렉터리 부분에 opencv의 include폴더를 등록합니다
-  (?:\
+  (?:\opencv\build\include)
+  (?:\opencv\build\include\opencv2)
